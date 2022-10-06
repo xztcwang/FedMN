@@ -1,4 +1,6 @@
  # CIFAR10 Dataset
+ 
+The data processing is reused from: https://github.com/omarfoq/FedEM/tree/main/data/cifar10
 
 ```
 python generate_data.py \
