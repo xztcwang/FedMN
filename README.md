@@ -8,7 +8,6 @@ Torchvision 0.13.1
 cvxpy  
 networkx
 
-### Data
-The data processing is adapted from: https://github.com/omarfoq/FedEM/tree/main/data
+
 
 
